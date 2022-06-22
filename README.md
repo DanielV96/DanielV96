@@ -1,6 +1,6 @@
 <img src = "https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif" width = "100%">
 
-<img src = "https://cdn-images-1.medium.com/max/1600/1*OF0xEMkWBv-69zvmNs6RDQ.gif" width = "100">
+<img src = "https://cdn-images-1.medium.com/max/1600/1*OF0xEMkWBv-69zvmNs6RDQ.gif" width = "100%">
 
 <h1 align="center">Hi 👋, I'm Daniel Valencia M</h1>
 <h3 align="center">A passionate Backed developer from Colombia</h3>
