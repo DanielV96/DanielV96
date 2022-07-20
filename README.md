@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielv96&label=Profile%20views&color=0e75b6&style=flat" alt="danielv96" /> </p>
 
-- 🌱 I’m currently learning **MySQL,Database,English**
+- 🌱 I’m currently learning **MySQL,Database,English and JavaScript**
 
 - 💬 Ask me about **Databases,MySQL**
 
