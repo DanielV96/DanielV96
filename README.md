@@ -3,7 +3,7 @@
 <img src = "https://cdn-images-1.medium.com/max/1600/1*OF0xEMkWBv-69zvmNs6RDQ.gif" width = "100%">
 
 <h1 align="center">Hi/Hola👋, I'm Daniel Valencia M</h1>
-<h3 align="center">A passionate Backed developer from Colombia</h3>
+<h3 align="center">I'm a Backed developer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielv96&label=Profile%20views&color=0e75b6&style=flat" alt="danielv96" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Databases,MySQL**
 
-- 📫 How to reach me **el.dani72@gmail.com**
+- 📫 How to reach me **daniel.valencia.m@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
